@@ -10,3 +10,7 @@ Tutorial de como usar o GitHub
 4°: Se caso for adicionar um documento, clique 
 
 5°: vá em ação, páginas e coloque filial,e salva. 
+
+6°: Clique em Wiki e em criar,que ele já cria automaticamente. 
+
+7°: Código: Vai em código,e clique no mais,e ela já edita. 
