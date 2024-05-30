@@ -13,4 +13,4 @@ Tutorial de como usar o GitHub
 
 6°: Clique em Wiki e em criar,que ele já cria automaticamente. 
 
-7°: Código: Vai em código,e clique no mais,e ele já edita. 
+7°: Código: Vai em código,e clique no mais,e ele já edita.
