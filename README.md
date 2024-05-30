@@ -1,9 +1,9 @@
 # Trabalho_Tutorial
 Tutorial de como usar o GitHub 
 
-1°: faça login na sua conta do Github,se não tiver uma é so criar. 
+1°: faça login na sua conta do Github,se não tiver uma é só criar. 
 
-2°: Após entrar, clique no mais para criar um novo repertório.
+2°: Após entrar, clique no mais,que fica no canto superior da tela,para criar um novo repertório.
 
 3°: aducione os detalhes,como o nome, coloque a descrição e se ele é privado ou público. Em seguida aperte em criar o repositório. 
 
